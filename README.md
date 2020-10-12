@@ -10,7 +10,7 @@
 - Notes page has an existing welcome note.
 - Users can edit and save notes by using the edit and save icons at the top right.
 
-## Screenshots of Deployed Applications
+## Screenshots of Deployed Application
 
 - Landing Page
 ![](images/landingPage.png)
