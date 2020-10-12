@@ -19,6 +19,6 @@ app.use('/', htmlRoutes);
 
 app.use(express.static('public'));
 
-app.listen(3001, () => {
+app.listen(PORT, () => {
     console.log(`API server now on port ${PORT}!`);
 });
