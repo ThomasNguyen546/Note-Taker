@@ -2,7 +2,7 @@
 
 ## Description
 
-- Note Taker is a note saving applications that allows users to write and save notes.
+- Note Taker is a note saving application that allows users to write and save notes.
 
 ## Task
 
